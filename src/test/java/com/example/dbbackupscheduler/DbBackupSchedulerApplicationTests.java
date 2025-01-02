@@ -1,4 +1,4 @@
-package com.example.dbbackupscheduler.dbbackupscheduler;
+package com.example.dbbackupscheduler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.dbbackupscheduler.dbbackupscheduler;
+package com.example.dbbackupscheduler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
