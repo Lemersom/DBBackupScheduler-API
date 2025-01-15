@@ -37,3 +37,8 @@ The application also implements encryption for sensitive information, ensuring t
       # Every day at 2 AM (America/Sao_Paulo timezone)
       cron.string=0 0 2 * * *
     ```
+
+# Related Repositories
+
+* [DatabaseBackup-API](https://github.com/Lemersom/DatabaseBackup-API)
+* [CsvToSqlConverter-API](https://github.com/Lemersom/CsvToSqlConverter-API)
